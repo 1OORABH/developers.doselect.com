@@ -1,0 +1,16 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background: #ecf0f1;
+  color:  #3d3c40;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 50px;
+  color: #3F51B5;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
